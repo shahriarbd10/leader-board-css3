@@ -155,7 +155,7 @@ _____________ */
     
     }
     .player,.blog,.course{
-        justify-content: center;
+        
         align-items: center;
         flex-direction: column;
     }
